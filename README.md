@@ -1,2 +1,4 @@
 # Automatic-Solar-Panel
-An automatic solar panel
+An automatic solar panel that turns to where it receive the maxium amount of solar energy. Built using a stepper and servo motor. 
+
+# Demo Video
