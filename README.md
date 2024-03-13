@@ -1,5 +1,5 @@
 # Automatic-Solar-Panel
-An automatic solar panel that turns to where it receive the maxium amount of solar energy. Built using a stepper and servo motor. 
+An automatic solar panel that turns to where it receives the maximum amount of solar energy. Built using an Arduino Uno, stepper and servo motor. 
 
 # Demo Video
 
